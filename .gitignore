@@ -1,0 +1,20 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.idea/
+.vscode/
+*.swp
+*.tmp
+
+# Python artifacts from helper scripts
+__pycache__/
+*.py[cod]
+.venv/
+
+# Common local notes and secrets
+.env
+.env.*
+notes-private/
