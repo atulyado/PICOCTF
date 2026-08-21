@@ -10,8 +10,8 @@ A growing collection of my solutions and notes for [picoCTF](https://picoctf.org
 | Category | Solved |
 | --- | ---: |
 | Cryptography | 1 |
-| Web Exploitation | 2 |
-| **Total** | **3** |
+| Web Exploitation | 3 |
+| **Total** | **4** |
 
 Browse the complete [challenge index](CTF/README.md).
 
@@ -27,6 +27,9 @@ PICOCTF/
 |   |       `-- assets/              # Images and supporting files
 |   `-- Web Exploitation/
 |       |-- head-dump/
+|       |   |-- README.md
+|       |   `-- assets/
+|       |-- local-authority/
 |       |   |-- README.md
 |       |   `-- assets/
 |       `-- n0s4n1ty-1/
